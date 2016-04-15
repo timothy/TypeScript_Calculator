@@ -49,5 +49,5 @@ Please feel free to create a pull request adding some tests in. This is an open 
 ## Contributors
 So far just me @timothy.
 
-To anyone who would like, feel free to make a pull request to update or add new features! This is really just something for fun. If you have some working code you that you think would add to the coolness of this app please feel free.
+To anyone who would like, feel free to make a pull request to update or add new features! This is really just something for fun. If you have some working code that you think would add to the coolness of this app please feel free.
 Just a side note please test your code well before making a pull request. I will most likely test it out as well but I really do not like testing code just to find a bunch of blatant bugs and then denying the pull request… If there are bug I will likely give you the details of what I found and some good ideas of how to fix it. Thanks!
